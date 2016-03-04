@@ -1,0 +1,2 @@
+# betteryc.github.io
+GitPages
